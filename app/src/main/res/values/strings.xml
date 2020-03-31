@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">AtividadeLayout</string>
     <string name="product">Produto</string>
+
+
+    <string name="fill_the_fields_correctly">Prencher os campos corretamente</string>
 </resources>
